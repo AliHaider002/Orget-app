@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "137067906124",
+    "project_id": "dataentry-aac33",
+    "storage_bucket": "dataentry-aac33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137067906124:android:b0c78a3fd05fc3d0de20e9",
+        "android_client_info": {
+          "package_name": "com.dataentry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137067906124-s48kvqp65ug47koof748uf461ajofd4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dataentry",
+            "certificate_hash": "0514a7cf9be41e5988ddcec1ab8a769b9f63d919"
+          }
+        },
+        {
+          "client_id": "137067906124-tsgasc6tgv1qq7ve2ieje6u9rqjo2k8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApghYGzyiKVwciBZeypUXnvpti1phcQ7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137067906124-tsgasc6tgv1qq7ve2ieje6u9rqjo2k8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+export const primary = '#F7AD4C';
+export const textcolor = '#888888';
+export const headertext = '#1A1824';
+export const inputTextColor = '#000';
+export const inputtitlecolor = '#000000';
+export const WhiteColor = '#FFFFFF';
+export const Darkcolor = '#B8BDBD';
+export const inputbackcolor = '#F4F6F9';
+export const Lightcolor = '#9EA3AE';
+export const cardbackcolor = '#F0FAF9';
